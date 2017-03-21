@@ -1,0 +1,6 @@
+show arp
+show ethernet-switching tables
+show interfaces brief
+show interfaces ge-0/0/0
+clear arp
+show vlans
